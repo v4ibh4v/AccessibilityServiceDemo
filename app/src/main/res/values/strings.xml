@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AccessibilityServiceDemo</string>
+    <string name="accessibility_service_label">*TextReader*</string>
 </resources>
